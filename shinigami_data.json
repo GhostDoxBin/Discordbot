@@ -1,0 +1,40 @@
+{
+  "members": {},
+  "applications": {},
+  "warnings": {},
+  "events": {},
+  "ranks": {
+    "rank_1": {
+      "name": "Глава",
+      "color": "#000000",
+      "permissions": "Все"
+    },
+    "rank_2": {
+      "name": "Заместитель",
+      "color": "#FF0000",
+      "permissions": "Высокие"
+    },
+    "rank_3": {
+      "name": "Советник",
+      "color": "#800080",
+      "permissions": "Средние"
+    },
+    "rank_4": {
+      "name": "Боец",
+      "color": "#FFFFFF",
+      "permissions": "Базовые"
+    },
+    "rank_5": {
+      "name": "Новичок",
+      "color": "#00FF00",
+      "permissions": "Минимальные"
+    },
+    "rank_6": {
+      "name": "рекрут",
+      "color": "#000000",
+      "permissions": "приглашение",
+      "created_by": "apatia_ebet",
+      "created_at": "2025-12-04T22:25:29.504376"
+    }
+  }
+}
